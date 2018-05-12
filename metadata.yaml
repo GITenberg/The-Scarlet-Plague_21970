@@ -23,6 +23,8 @@ creator:
 description: "The Scarlet Plague is a post-apocalyptic fiction novel written by Jack\
   \ London and originally published in London Magazine in 1912.\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21970#The-Scarlet-Plague
 gutenberg_issued: '2007-06-29'
 gutenberg_type: Text
 identifiers:
